@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/cds-boke/cds-boke.github.io/img/672678b2b40a1de1cab5923ba1549f8.jpg
+sidebar-avatar: https://github.com/cds-boke/cds-boke.github.io/tree/master/img/672678b2b40a1de1cab5923ba1549f8.jpg
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
